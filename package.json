@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Firenza/verify-secrets#readme",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.10.0",
     "@types/jest": "^27.0.3"
   },
   "devDependencies": {
